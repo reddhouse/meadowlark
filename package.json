@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/reddhouse/meadowlark/issues"
   },
-  "homepage": "https://github.com/reddhouse/meadowlark#readme",
+  "homepage": "https://github.com/reddhouse/meadowlark",
   "dependencies": {
     "express": "^4.13.4",
     "express-handlebars": "^3.0.0"
