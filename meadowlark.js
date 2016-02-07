@@ -12,14 +12,6 @@ app.set('view engine', 'handlebars');
 
 app.set('port', process.env.PORT || 3000);
 
-// array for fortune cookie feature
-var fortunes = [
-	"Conquer your fears or they will conquer you.",
-	"Rivers need springs.",
-	"Do not fear what you don't know.",
-	"You will have a pleasant surprise.",
-	"Whenever possible, keep it simple,",
-];
 
 // add static middleware
 app.use(express.static(__dirname + '/public'));
